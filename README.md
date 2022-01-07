@@ -1,33 +1,45 @@
 
-  ![Github License
-  ](https://img.shields.io/badge/license-Apache2.0-blue.svg)
-  # Really Cool Project
+  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+  # README-Generator
   ## Description
-  This is exactly what the application does, perfectly described.
+  This application generates a professional and organized README.md file that is ready to use once the users information is entered via the prompts in terminal. The items in the table of contents are clickable and will take you to that section of the README file. The license, github and walkthrough links are all clickable and will take you to the agreement, github page, and video respectively. There is also a space left for screenshots if you would like to add them for your application. This README file was created using the generator.
   ## Table of Contents
-  [Installation Instructions](#installation)
+  [Installation](#installation)
 
-  [Usage Information](#usage)
+  [Usage](#usage)
 
-  [Contribution Guidelines](#contributing)
+  [Contributing](#contributing)
 
   [License](#license)
 
-  [Test Instructions](#tests)
+  [Tests](#tests)
 
   [Questions](#questions)
+
+  [Screenshots](#screenshots)
   
   ## Installation
-  All of the instructions
+  npm init -y, npm i inquirer
   ## Usage
-  All of the information
+  Run through terminal using "node index.js"
   ## Contributing
-  All of the guidelines
+  none
   ## License
-  The license used is Apache2.0
+  The license used is MIT
+
+  Find the license link here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
   ## Tests
-  All of the instructions
+  node index.js
   ## Questions
   GitHub Username: jacobluedke
 
   Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
+
+  Reach out to me at the following email for any questions you may have: jacob@gmail.com
+  ## Screenshots
+
+  ![Screenshot of README preview and answered prompts](screenshots/ss-generator.png)
+  ![Screenshot of npm in terminal](screenshots/ss-npm.png)
+
+  Link to my walkthough video: [https://watch.screencastify.com/v/GnJiVvp10cgOqnQYS0n4](https://watch.screencastify.com/v/GnJiVvp10cgOqnQYS0n4)
+
